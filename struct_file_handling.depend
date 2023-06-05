@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1685954855 source:c:\users\gabi\documents\c projects\struct_file_handling\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
