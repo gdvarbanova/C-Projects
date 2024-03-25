@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1685203458 source:c:\users\gabi\documents\c projects\extend_arr\main.c
+	<stdio.h>
+	<stdlib.h>
+
