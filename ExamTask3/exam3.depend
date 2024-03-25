@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1685389626 source:c:\users\gabi\documents\c projects\exam3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
