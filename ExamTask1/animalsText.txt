@@ -1,0 +1,48 @@
+
+A,50.00
+B,22.22
+Anna Todorova
+,24.55
+Anna Todorova
+,22.22
+Georg Henih
+,12.34
+Anna Todorova
+,22.22
+Simona Varbanova
+,25.00
+Xia Chen
+,25.00
+A T,25.00
+B F,22.22
+S E,25.00
+A
+,25.00
+B
+,25.00
+C
+,22.22
+A ,25.00
+B,22.22
+C,25.00
+AVA NAGILA,25.00
+NAGILA AVA,22.22
+VENIS MEHA,25.00
+A,12.45
+B,25.00
+C,23.00
+A,22.22
+B,25.00
+C,25.00
+A,22.22
+B,25.00
+C,25.00
+A,23.22
+B,40.00
+C,65.00
+A,21.00
+B,21.00
+C,22.22
+A,25.00
+B,22.22
+C,25.00
